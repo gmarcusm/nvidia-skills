@@ -1,0 +1,6 @@
+name: Sionna
+repo: NVlabs/sionna
+description: Agentic skills for Sionna setup and usage guidance.
+skills:
+  - path: skills/sionna-install/
+    catalog_dir: sionna-install
